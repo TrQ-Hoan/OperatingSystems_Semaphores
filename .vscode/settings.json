@@ -1,0 +1,14 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "files.autoSave": "onFocusChange",
+    "editor.minimap.enabled": false,
+    "C_Cpp.clang_format_fallbackStyle": "{ BasedOnStyle: Google, IndentWidth: 4, AllowShortIfStatementsOnASingleLine: true}",
+    "files.associations": {
+        "stdlib.h": "c",
+        "unistd.h": "c",
+        "thread": "c",
+        "stdbool.h": "c",
+        "semaphore.h": "c"
+    }
+}
